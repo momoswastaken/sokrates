@@ -5,7 +5,7 @@ import Saly from "/src/assets/Saly-13.png";
 
 const About = () => {
   return (
-    <section id="about" className="h-screen bg-black pt-40 ">
+    <section id="about" className="h-screen bg-zinc-900 pt-40 ">
     
       <div className="relative px-4 py-16 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8 lg:py-20 z-10">
         <div className="grid gap-10 lg:grid-cols-2">
